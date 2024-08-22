@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>C:\Users\PJain\Downloads\firely-server-v5.9.0\plugins\Vonk.Plugin.PreferredIdOperation</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Vonk.Core" Version="5.9.0" />
+    <PackageReference Include="Vonk.Fhir.R4" Version="5.5.2" />
+  </ItemGroup>
+
+</Project>
